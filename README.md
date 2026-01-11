@@ -31,6 +31,4 @@ Based on these features, the app predicts the **house price**.
 
  TO RUN THIS PROJECT USE 
  (streamlit run app.py)
-
-   git clone <repository_url>
-   cd <repository_folder>
+>
